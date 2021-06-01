@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Hyperlinks</title>
+   </head>
+
+   <body>
+      <h1>Company</h1>
+      <p>
+         We’re a <a href=https://htmlpreview.github.io/?https://github.com/DustyAirFilter/Blobdash_Privacy_Policy/blob/main/PRIVACY_POLICY/Privacy%20Policy%20for%20Blobdash.htm>team</a> 
+      </p>
+   </body>
+</html>
